@@ -1,0 +1,9 @@
+This is a tring txt.
+And now I am prepared for learning data staructures and algorithm analysis in c.
+So excited am I, never easy give up.
+god bless me!
+coding..
+
+most of the codes comes from zhejiang university in the mooc and the book of
+data structures and algorithrm in c by Mark Allen Weiss
+
